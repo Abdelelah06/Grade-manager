@@ -13,9 +13,9 @@ public class GradeManager {
         double[] grades2 = {78, 82, 80};
         double[] grades3 = {95, 93, 97};
 
-        Student s1 = new Student("Ali", 101, grades1);
-        Student s2 = new Student("Sara", 102, grades2);
-        Student s3 = new Student("Omar", 103, grades3);
+        Student s1 = new Student("Abdelelah", 101, grades1);
+        Student s2 = new Student("Yanal", 102, grades2);
+        Student s3 = new Student("Jafar", 103, grades3);
 
         Student[] students = {s1, s2, s3};
         return students;
